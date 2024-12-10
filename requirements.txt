@@ -1,0 +1,12 @@
+# !pip install
+
+ray
+pdfplumber
+python-pptx
+langchain
+numpy
+transformers
+faiss-cpu
+torch
+langchain_huggingface
+huggingface_hub
